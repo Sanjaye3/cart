@@ -1,0 +1,23 @@
+.Upper{
+    background-color: grey;
+    height:130px;
+    width: 200px;
+    text-align: center;
+    /* align-items: center; */
+}
+
+.Lower{
+    background-color: white;
+    color: black;
+    margin: 5px;
+
+}
+
+.Cart{
+    border: 1px solid #68716978;
+    width: 200px;
+    height: 300px;
+    margin-left: 100px;
+     
+
+}
